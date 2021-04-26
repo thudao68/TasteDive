@@ -1,0 +1,19 @@
+[
+    { 
+        "q": "Harry",
+        "type": "show",
+        "limit": "5"
+    },
+
+    { 
+        "q": "Oscar",
+        "type": "book",
+        "limit": "3"
+    },
+
+    { 
+        "q": "Michael",
+        "type": "movie",
+        "limit": "8"
+    }
+]
